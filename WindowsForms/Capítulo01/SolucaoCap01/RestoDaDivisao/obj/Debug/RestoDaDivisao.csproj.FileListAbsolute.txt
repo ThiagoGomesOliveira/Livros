@@ -1,0 +1,8 @@
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\RestoDaDivisao\obj\Debug\RestoDaDivisao.FormRestoDeDivisao.resources
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\RestoDaDivisao\obj\Debug\RestoDaDivisao.Properties.Resources.resources
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.GenerateResource.Cache
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe.config
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\RestoDaDivisao\bin\Debug\RestoDaDivisao.pdb
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\RestoDaDivisao\obj\Debug\RestoDaDivisao.exe
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\RestoDaDivisao\obj\Debug\RestoDaDivisao.pdb

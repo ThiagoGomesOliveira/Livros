@@ -1,0 +1,9 @@
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\TrocaDeValores\bin\Debug\TrocaDeValores.exe.config
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\TrocaDeValores\bin\Debug\TrocaDeValores.exe
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\TrocaDeValores\bin\Debug\TrocaDeValores.pdb
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\TrocaDeValores\obj\Debug\TrocaDeValores.csprojResolveAssemblyReference.cache
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\TrocaDeValores\obj\Debug\TrocaDeValores.Properties.Resources.resources
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\TrocaDeValores\obj\Debug\TrocaDeValores.csproj.GenerateResource.Cache
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\TrocaDeValores\obj\Debug\TrocaDeValores.exe
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\TrocaDeValores\obj\Debug\TrocaDeValores.pdb
+c:\users\thiag\documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\TrocaDeValores\obj\Debug\TrocaDeValores.frmTrocaDeValores.resources
