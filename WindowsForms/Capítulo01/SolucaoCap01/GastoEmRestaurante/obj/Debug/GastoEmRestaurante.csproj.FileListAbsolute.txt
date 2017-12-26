@@ -1,0 +1,9 @@
+C:\Users\thiag\Documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe.config
+C:\Users\thiag\Documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe
+C:\Users\thiag\Documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.pdb
+C:\Users\thiag\Documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Properties.Resources.resources
+C:\Users\thiag\Documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.GenerateResource.Cache
+C:\Users\thiag\Documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.exe
+C:\Users\thiag\Documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.pdb
+C:\Users\thiag\Documents\Livros\WindowsForms\Capítulo01\SolucaoCap01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.formGastoEmRestaurante.resources
