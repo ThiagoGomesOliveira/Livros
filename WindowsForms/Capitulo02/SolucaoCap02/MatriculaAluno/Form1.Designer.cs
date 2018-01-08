@@ -30,12 +30,11 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
+            this.lblDataAtual = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.btnCategoria = new System.Windows.Forms.Button();
             this.txtCategoria = new System.Windows.Forms.TextBox();
             this.txtAnoNasc = new System.Windows.Forms.TextBox();
-            this.txtAnoAniver = new System.Windows.Forms.TextBox();
             this.txtNome = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
@@ -57,14 +56,14 @@
             this.label2.TabIndex = 1;
             this.label2.Text = "Ano Nascimento:";
             // 
-            // label3
+            // lblDataAtual
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(186, 64);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(110, 13);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "Ano último aniversario";
+            this.lblDataAtual.AutoSize = true;
+            this.lblDataAtual.Location = new System.Drawing.Point(186, 64);
+            this.lblDataAtual.Name = "lblDataAtual";
+            this.lblDataAtual.Size = new System.Drawing.Size(50, 13);
+            this.lblDataAtual.TabIndex = 2;
+            this.lblDataAtual.Text = "Dia Atual";
             // 
             // label4
             // 
@@ -103,15 +102,6 @@
             this.txtAnoNasc.Size = new System.Drawing.Size(79, 20);
             this.txtAnoNasc.TabIndex = 6;
             // 
-            // txtAnoAniver
-            // 
-            this.txtAnoAniver.Location = new System.Drawing.Point(302, 57);
-            this.txtAnoAniver.Name = "txtAnoAniver";
-            this.txtAnoAniver.Size = new System.Drawing.Size(72, 20);
-            this.txtAnoAniver.TabIndex = 7;
-            this.txtAnoAniver.Enter += new System.EventHandler(this.txtAnoAniver_Enter);
-            this.txtAnoAniver.Validating += new System.ComponentModel.CancelEventHandler(this.txtAnoAniver_Validating);
-            // 
             // txtNome
             // 
             this.txtNome.Location = new System.Drawing.Point(58, 22);
@@ -123,14 +113,13 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(380, 141);
+            this.ClientSize = new System.Drawing.Size(410, 141);
             this.Controls.Add(this.txtNome);
-            this.Controls.Add(this.txtAnoAniver);
             this.Controls.Add(this.txtAnoNasc);
             this.Controls.Add(this.txtCategoria);
             this.Controls.Add(this.btnCategoria);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.label3);
+            this.Controls.Add(this.lblDataAtual);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "formMatricula";
@@ -145,12 +134,11 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label lblDataAtual;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button btnCategoria;
         private System.Windows.Forms.TextBox txtCategoria;
         private System.Windows.Forms.TextBox txtAnoNasc;
-        private System.Windows.Forms.TextBox txtAnoAniver;
         private System.Windows.Forms.TextBox txtNome;
     }
 }

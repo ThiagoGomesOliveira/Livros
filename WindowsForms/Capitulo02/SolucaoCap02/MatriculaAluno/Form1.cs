@@ -15,6 +15,7 @@ namespace MatriculaAluno
         public formMatricula()
         {
             InitializeComponent();
+            lblDataAtual.Text = "Hoje é " + DateTime.Now.ToLongDateString();
         }
 
         private void formMatricula_Load(object sender, EventArgs e)
@@ -34,22 +35,22 @@ namespace MatriculaAluno
 
         private void txtAnoAniver_Validating(object sender, CancelEventArgs e)
         {
-            int anoNiver = Convert.ToInt32(txtAnoAniver.Text);
-            int anoNasc = Convert.ToInt32(txtAnoNasc.Text);
+            //int anoNiver = Convert.ToInt32(txtAnoAniver.Text);
+            //int anoNasc = Convert.ToInt32(txtAnoNasc.Text);
 
-            if (txtAnoAniver.Text != string.Empty && anoNiver <= anoNasc)
-            {
-                MessageBox.Show("O ano do ultimo aniversario deve ser superior " +
-                    "ao Ano de nascimento.", "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                e.Cancel = true;
-            }
+            //if (txtAnoAniver.Text != string.Empty && anoNiver <= anoNasc)
+            //{
+            //    MessageBox.Show("O ano do ultimo aniversario deve ser superior " +
+            //        "ao Ano de nascimento.", "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            //    e.Cancel = true;
+            //}
         }
 
         private void btnCategoria_Click(object sender, EventArgs e)
         {
             if (txtNome.Text == string.Empty ||
-                txtAnoNasc.Text == string.Empty ||
-                txtAnoAniver.Text == string.Empty)
+                txtAnoNasc.Text == string.Empty 
+              )
             {
                 MessageBox.Show("Todos Campos Devem estar Preenchidos",
                     "Atençã!!", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -57,8 +58,8 @@ namespace MatriculaAluno
             else
             {
                 int anoNasc = Convert.ToInt32(txtAnoNasc.Text);
-                int anoNiver = Convert.ToInt32(txtAnoAniver.Text);
-                int idade = anoNiver - anoNasc;
+               
+                int idade = anoNasc;
                 VerificarIdade(idade);
 
             }
