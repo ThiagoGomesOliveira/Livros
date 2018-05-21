@@ -259,3 +259,4 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+WindowsForms/Capitulo02/SolucaoCap02/MatriculaAluno/Form1.cs
